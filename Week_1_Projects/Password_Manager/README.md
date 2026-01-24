@@ -29,7 +29,7 @@ A secure local password manager built in Python that stores credentials in an en
 - Encryption ensures passwords are never stored in plain text
 - Even if the file is stolen, data remains unreadable without the key
 
-## 📂 Storage Format
+## Storage Format
 
 Passwords are saved in an **encrypted JSON structure** like:
 
