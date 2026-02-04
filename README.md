@@ -17,13 +17,22 @@ The goal of this internship is to build practical security tools, understand cor
 
 Each week focuses on different cybersecurity concepts and practical implementations.
 
-Week 01 Projects
+---
+
+## Week 01 Projects
 
 ### 1. TCP Port Scanner
 A multithreaded TCP port scanner built using Python.
 
 ### 2. Encrypted Password Manager
 A secure local password manager that stores credentials in encrypted form on disk.
+
+---
+
+## Week 02 Projects
+
+### 1. Encrypted Chat App
+A secure multi-client chat application built using Python sockets and AES symmetric encryption.  
 
 ---
 
