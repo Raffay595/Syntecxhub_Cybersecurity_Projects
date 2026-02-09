@@ -3,9 +3,6 @@
 An ethical, lightweight **SQL Injection vulnerability scanner** built in Python.  
 This tool tests web input parameters using common SQL injection payloads and detects **error-based SQL injection indicators** in server responses.
 
-> **Educational & Authorized Use Only**  
-> Intended for DVWA, localhost, or environments you own or have explicit permission to test.
-
 ---
 
 ## Features
