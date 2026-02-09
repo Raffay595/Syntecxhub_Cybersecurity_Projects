@@ -1,4 +1,4 @@
-# SQL Injection Scanner (Educational Project)
+# SQL Injection Scanner
 
 An ethical, lightweight **SQL Injection vulnerability scanner** built in Python.  
 This tool tests web input parameters using common SQL injection payloads and detects **error-based SQL injection indicators** in server responses.
