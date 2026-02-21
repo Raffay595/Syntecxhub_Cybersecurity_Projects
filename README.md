@@ -29,12 +29,23 @@ A secure local password manager that stores credentials in encrypted form on dis
 
 ---
 
-## Week 02 Projects
+## Week 02 Project(s)
 
 ### 1. Encrypted Chat App
 A secure multi-client chat application built using Python sockets and AES symmetric encryption.  
 
 ---
+
+## Week 3 Project(s)
+
+### 1. SQL Injection Scanner
+An ethical, lightweight SQL Injection vulnerability scanner built in Python.
+
+---
+
+## Week 4 Project(s)
+
+### Encrypted File Transfer & Secure File Storage
 
 
 ## Learning Objectives
