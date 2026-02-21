@@ -46,6 +46,7 @@ An ethical, lightweight SQL Injection vulnerability scanner built in Python.
 ## Week 4 Project(s)
 
 ### Encrypted File Transfer & Secure File Storage
+A secure system for file transfer and storage between a client and a server.
 
 
 ## Learning Objectives
