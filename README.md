@@ -60,7 +60,4 @@ Through these projects, I am developing practical skills in:
 
 ---
 
-## More Projects Coming Soon...
-
-
 
